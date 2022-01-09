@@ -1,4 +1,5 @@
 # php_personal_trainer_website
+#index.php sayfası anasayfadır
 Proje konum olarak evde spor yapmak isteyen insanlara yardımcı olmak için bir web sitesi hazırlamak istedim. Kullanıcıya boy, kilo, hedefinin kilo vermek mi yoksa kas geliştirmek mi olduğu, eğer kas geliştirmekse de hangi kasları geliştirmek istediğini sorarak bu tercihlere uygun sonuçları veri tabanından çekip kullanıcıya gösteren bir web sitesi yaptım.
 ![image](https://user-images.githubusercontent.com/67866767/148683548-5a2ab8ba-2e8d-4c9e-9325-d2bc146b2e7b.png)
 
